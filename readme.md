@@ -32,7 +32,7 @@ project-root/
 
 ## Comando para iniciar el proyecto
 
-Ambiente de pruebas
+Ambiente de prueba
 
 ```bash
 sudo docker-compose up --build 
