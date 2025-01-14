@@ -36,6 +36,7 @@ Ambiente de pruebas
 
 ```bash
 sudo docker-compose up --build 
+```
 
 
 ## Captura de pantalla
